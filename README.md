@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Presick
-- 👀 I’m interested in CI/CD and any other DevOps tools
-- 🌱 I’m currently learning the DevOps culture
-- 💞️ I’m looking to collaborate on Any DevOps projects
+- 👀 I’m a CI/CD and any other DevOps tools lover specially Kubernetes, Docker, Terraform and Ansible
+- 🌱 I’m planning to work on a project for an application that will help unprivilege children to have access to a proper education. Stay tuned
+- 💞️ I’m looking to collaborate on any DevOps projects involving education and charity.
 - 📫 How to reach me cedrickeumo@gmail.com
 
 <!---
